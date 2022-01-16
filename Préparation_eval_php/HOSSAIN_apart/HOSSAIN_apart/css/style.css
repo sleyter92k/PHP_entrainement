@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(203, 237, 248);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+header{
+            height: 100px;
+            background-color: rgb(8, 189, 250);
+            color: white;
+            margin: 0;
+            text-align: center;
+            padding-top: 10px;
+        }
+
+footer{
+        height: 75px;
+        background-color: rgb(2, 195, 243);
+        color: white;
+        margin: 0;
+        text-align: center;
+        line-height: 60px;
+    }
